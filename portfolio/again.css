@@ -1,0 +1,72 @@
+html{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxwrXivTOVC7ibswbl5I9pUbUyQ3JUpzGtg&usqp=CAU);
+}
+.salutation{
+    display:flex;
+    width:100%;
+    /* background-color: darkgreen; */
+    font-weight: bolder;
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* justify-content:space-between; */
+}
+h1{
+    margin-left: 40%;
+}
+.me{
+    width:300px;
+    border-radius: 50%;
+    border-width: 50px;
+    border-style:solid;
+    border: blueviolet;
+    margin-left: 40%;
+}
+h2{
+    font-style: italic;
+    font-size: 50px; 
+    margin-bottom: 0;
+}
+pre{
+    font-size: 20px;
+    font-family: cursive;
+}
+.dis{
+    margin-left: 40%;
+}
+ul{
+    display:flex;
+    justify-content:left;
+    list-style-type: none;
+
+}
+.icon{
+    width:30px;
+    margin-left: 0.5em;
+    border-radius: 50%;
+}
+.dis > pre:hover{
+    cursor: pointer;
+    color:mediumvioletred;
+}
+.sm{
+    margin-left: 500px;
+}
+li:hover{
+    width:50px;
+}
+footer{
+    margin-left: 42%;
+}
+h4{
+    margin-left: 50px;
+}
+#email{
+    text-decoration: none;
+    color: black;
+}
+.me:hover{
+    cursor: pointer;
+    border-width: 10px;
+    border-style: solid;
+    border-color:pink;
+}

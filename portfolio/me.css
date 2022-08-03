@@ -1,0 +1,66 @@
+body{
+    background-image:url(https://w0.peakpx.com/wallpaper/122/76/HD-wallpaper-study-book-books-notebook-pen.jpg);
+}
+header{
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+   
+}
+.salutation{
+    background-color: darkblue;
+    width: 27%;
+    height:70px;
+    color:white;
+    font-size: 60px;
+}
+.me{
+    width: 200px;
+    height: 200px;
+    /* margin-left: 800px; */
+    border-radius: 50%;
+    border-style:inset;
+    border-width: 0.5em;
+    border-color: black;
+}
+h2{
+    margin-left: 40px;
+    margin-right: auto;
+    font-size: 45px;
+    font-weight:bolder;
+    margin-bottom: 0%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+pre{
+    background-color:palevioletred;
+    font-size: 20px;
+    margin-top: -20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+main{
+
+    width: 100%;
+    /* padding: px; */
+    display: flex;
+    justify-content:space-between;
+}
+.sm{
+    background-color: white;
+    margin-right: 20px;
+}
+.icon{
+    width: 60px;
+}
+ul{
+    width: 50%;
+    margin-left: 45px;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-around;
+    list-style-type:none;
+
+}
+li{
+    margin-left: 0.5em;
+}
